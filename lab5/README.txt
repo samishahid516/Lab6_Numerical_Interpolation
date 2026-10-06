@@ -1,4 +1,4 @@
-Lab 5 - Numerical Interpolation (Newton Forward & Backward)
+Lab 6 - Numerical Interpolation (Newton Forward & Backward)
 Run:   python3 interpolation.py
 Test:  python3 interpolation.py < sample_input.txt
 
